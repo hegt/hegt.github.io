@@ -1,5 +1,5 @@
 .background{
-background-color:#F5DA81;
+background-color:#A9F5E1;
 }
 
 .font{
@@ -16,6 +16,8 @@ text-decoration:underline;
 background-color:#424242;
 margin-left:1000px;
 position:fixed;
+border:5px white outset;
+border-radius:50px;
 }
 
 .nav{
@@ -25,6 +27,50 @@ font-size:-20px;
 text-align:center;
 text-decoration:underline;
 background-color:#FFFFFF;
-margin-left:640px;
+margin-left:620px;
 position:fixed;
+border:5px black outset;
+border-radius:50px;
+}
+
+.chapterTitle{
+text-align:left;
+text-decoration:underline;
+text-decoration:italic;
+text-decoration:bold;
+color:#DF0101
+}
+
+.speech{
+font-style:italic;
+text-decoration:bold;
+background-color:#FF4000;
+}
+
+.oldMan{
+font-style:italic;
+text-decoration:bold;
+background-color:#ACFA58;
+}
+
+.fate{
+font-style:italic;
+color:yellow;
+text-decoration:bold;
+background-color:black;
+}
+
+.darkSpeech{
+font-style:italic;
+color:blue;
+text-decoration:bold;
+background-color:black;
+}
+
+a:visited{
+color:green;
+}
+
+.black{
+background-color:black;
 }
