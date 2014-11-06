@@ -17,3 +17,14 @@ background-color:#424242;
 margin-left:1000px;
 position:fixed;
 }
+
+.nav{
+height:50px;
+width:350px;
+font-size:-20px;
+text-align:center;
+text-decoration:underline;
+background-color:#FFFFFF;
+margin-left:300px;
+position:fixed;
+}
